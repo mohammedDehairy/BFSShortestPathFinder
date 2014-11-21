@@ -21,4 +21,4 @@ passing your NSDictionay graph , start node index ,and end node index
 
 5.The the return NSArray is an array of NSNumber's representing the shortes path from the start node to end node.
 
-IMPORTANT : if some of your nodes are "Blocked" then simply don't add them to your NSDictionary grapg neither as a parnet nor as a child.
+IMPORTANT : if some of your nodes are "Blocked" then simply don't add them to your NSDictionary grah neither as a parent nor as a child.
