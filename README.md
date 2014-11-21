@@ -8,7 +8,7 @@ shortest path finder in an unweighted graphs
 
 2.import the header "ShortestPathFinder.h"
 
-3.Construct you graph as an NSDictionary with each key is an NSNumber index for each "unblocked" node in your graph , and the values are NSArray of NSNumber indexes of the children of each node .
+3.Construct you graph as an NSDictionary with each key/value paire is an NSNumber index of each "unblocked" node in the graph and an NSArray of NSNumber indexes of its children.
 
 4.Calls the Class method of ShortestPathFinder
 
